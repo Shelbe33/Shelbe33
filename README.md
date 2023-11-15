@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Finding the non-standard directory in the C Drive](https://github.com/Shelbe33/)
+  - [Finding the non-standard directory in the C Drive](https://github.com/Shelbe33/Directory-in-C-drive)
 
 <h2>Certifications<h2>
 
