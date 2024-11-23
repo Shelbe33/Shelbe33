@@ -6,7 +6,7 @@
 
 <h2>Certifications<h2>
 
-- [ICS2 In Progress]
+- [ICS2 Certified ]
   
 <h2> 🤳 Connect with me:</h2>
 
